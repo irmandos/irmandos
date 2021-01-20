@@ -5,7 +5,7 @@
 [![Header](https://raw.githubusercontent.com/irmandos/irmandos/master/img/header.png "Header")](https://github.com/irmandos/)
 -->
 
-# Hello, folks! <img src="[0.1]" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/irmandos/irmandos/master/img/wave.gif" width="30px">
 My name is Ricardo Botha and I enjoy development projects as a hobby. I'm from South Africa and you can get me on about.me/ricardobotha
 
 <!-- You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3]. -->
