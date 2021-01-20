@@ -6,7 +6,7 @@
 -->
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/irmandos/irmandos/master/img/wave.gif" width="30px">
-My name is Ricardo Botha and I enjoy development projects as a hobby. I'm from South Africa and you can get me on about.me/ricardobotha
+My name is Ricardo Botha and I enjoy development projects as a hobby. I'm from South Africa and you can find info [![about.me]"about me"][1]
 
 <!-- You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3]. -->
 <!-- Icons -->
@@ -17,5 +17,5 @@ My name is Ricardo Botha and I enjoy development projects as a hobby. I'm from S
 
 <!-- Links to your social media accounts -->
 [0]: https://github.com/irmandos/
-[1]: https://twitter.com/Martin_Heinz_
+[1]: https://about.me/ricardobotha
 [2]: https://www.linkedin.com/in/heinz-martin/
