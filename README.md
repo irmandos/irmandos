@@ -1,12 +1,12 @@
 <!-- Icons -->
 [![Header][0.0]][0]
 
-<!--
-[![Header](https://raw.githubusercontent.com/irmandos/irmandos/master/img/header.png "Header")](https://github.com/irmandos/)
--->
-
 # Hello, folks! <img src="https://raw.githubusercontent.com/irmandos/irmandos/master/img/wave.gif" width="30px">
 My name is Ricardo Botha and I enjoy development projects as a hobby. I'm from South Africa and you can find info [about.me][1]
+
+<!-- Badges -->
+![Keybase PGP](https://img.shields.io/keybase/pgp/irmandos?style=plastic&logo=keybase?cacheSeconds=3600)
+
 
 <!-- You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3]. -->
 <!-- Icons -->
