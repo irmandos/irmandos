@@ -15,7 +15,7 @@ My name is Ricardo Botha and I enjoy development projects as a hobby. I'm from S
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-<!-- Links to your social media accounts -->
+<!-- Links to your social media accounts --> 
 [0]: https://github.com/irmandos/
 [1]: https://about.me/ricardobotha
 [2]: https://www.linkedin.com/in/heinz-martin/
