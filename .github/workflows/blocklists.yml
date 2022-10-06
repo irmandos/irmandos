@@ -50,7 +50,7 @@ jobs:
       - name: ↗️ Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
-          token: ${ { secrets.GITHUB_TOKEN } }
+          token: ${ { secrets.BLOCKLIST_TOKEN } }
           title: 'Update Block List'
           branch-suffix: timestamp
           commit-message: 'Update Block list from Pi-hole'
